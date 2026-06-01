@@ -1,7 +1,8 @@
 # LeetCode Solutions
 
-Total Problems Solved: 3
+Total Problems Solved: 4
 
 - 4sum.java
+- StockPrice.java
 - ThreeSum.java
 - TwoSum.java
